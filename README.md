@@ -26,13 +26,13 @@ Fare Amount**
 **Installation**
 
 **Clone the repository:**
-
+```
 git clone https://github.com/yourusername/TaxiFarePrediction.git
-
+```
 **Install dependencies:**
-
+```
 pip install -r requirements.txt
-
+```
 **Usage**
 
 **Data Preprocessing:** Preprocess the raw data to extract relevant features such as haversine distance and normalize the data if necessary.
