@@ -1,6 +1,6 @@
 # TaxiFare Prediction
 
-# README Index
+## Index
 
 1. [Overview](#overview)
 2. [Features](#features)
