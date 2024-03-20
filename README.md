@@ -12,9 +12,7 @@
 
 ## Overview
 
-TaxiFare Prediction is a machine learning project aimed at predicting taxi fares based on various features such as pickup and dropoff coordinates, as well as the haversine distance between the pickup and dropoff 
-
-points. The project utilizes regression techniques to estimate the fare amount for a given taxi ride.
+TaxiFare Prediction is a machine learning project aimed at predicting taxi fares based on various features such as pickup and dropoff coordinates, as well as the haversine distance between the pickup and dropoff points. The project utilizes regression techniques to estimate the fare amount for a given taxi ride.
 
 ## Features
 
