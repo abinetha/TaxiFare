@@ -1,12 +1,22 @@
 **TaxiFare Prediction**
 
-**Overview**
+# README Index
+
+1. [Overview](#overview)
+2. [Features](#features)
+3. [Data](#data)
+4. [Installation](#installation)
+5. [Usage](#usage)
+6. [Acknowledgments](#acknowledgments)
+
+
+## Overview
 
 TaxiFare Prediction is a machine learning project aimed at predicting taxi fares based on various features such as pickup and dropoff coordinates, as well as the haversine distance between the pickup and dropoff 
 
 points. The project utilizes regression techniques to estimate the fare amount for a given taxi ride.
 
-**Features**
+## Features
 
 **Haversine Distance:** The distance between two points on the Earth's surface calculated using the haversine formula. It serves as a crucial feature for fare estimation, as it directly correlates with the distance traveled.
 
@@ -14,7 +24,7 @@ points. The project utilizes regression techniques to estimate the fare amount f
 
 **Dropoff Coordinates:** Latitude and longitude coordinates of the dropoff location.
 
-**Data**
+## Data
 
 The project utilizes a dataset containing historical taxi ride information. Each data point includes the following features:
 
@@ -32,7 +42,7 @@ The project utilizes a dataset containing historical taxi ride information. Each
 
 **The dataset is used to train and evaluate machine learning models for fare prediction.**
 
-**Installation**
+## Installation
 
 **Clone the repository:**
 
@@ -46,7 +56,7 @@ git clone https://github.com/yourusername/TaxiFarePrediction.git
 pip install -r requirements.txt
 ```
 
-**Usage**
+## Usage
 
 **Data Preprocessing:** Preprocess the raw data to extract relevant features such as haversine distance and normalize the data if necessary.
 
@@ -56,7 +66,7 @@ pip install -r requirements.txt
 
 **Prediction:** Utilize the trained model to predict taxi fares for new ride instances.
 
-**Acknowledgments**
+## Acknowledgments
 
 This project was inspired by the need to accurately estimate taxi fares based on ride attributes.
 
