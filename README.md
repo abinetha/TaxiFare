@@ -45,7 +45,7 @@ The project utilizes a dataset containing historical taxi ride information. Each
 **Clone the repository:**
 
 ```
-git clone https://github.com/yourusername/TaxiFarePrediction.git
+git clone https://github.com/abinetha/TaxiFare.git
 ```
 
 **Install dependencies:**
